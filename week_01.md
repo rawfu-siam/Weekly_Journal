@@ -13,3 +13,13 @@ Started my weekly journal.
 Changed username to rawfu-siam.
 
 ---
+## Day 2 (12 May 2026)
+
+**What I learned**
+Researched from where to start to start
+learning python and what topics to learn.
+
+**What I did**
+collected the whole python basics and python
+intermediate syllabus, saved it to follow consistently
+and pushed it to github.
