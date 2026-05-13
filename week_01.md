@@ -16,10 +16,24 @@ Changed username to rawfu-siam.
 ## Day 2 (12 May 2026)
 
 **What I learned**
-Researched from where to start to start
+Researched from where to start
 learning python and what topics to learn.
 
 **What I did**
 collected the whole python basics and python
 intermediate syllabus, saved it to follow consistently
 and pushed it to github.
+
+---
+## Day 3 (13 May 2026)
+
+**What I learned**
+Learned basics of topics like comment, REPL,
+keywords in python, pip, what is module and 
+library, how to import any module.
+
+**What I did**
+Pushed a simple quote printer machine
+on github(with the help of ai)
+
+---
