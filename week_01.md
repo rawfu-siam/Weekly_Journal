@@ -37,3 +37,15 @@ Pushed a simple quote printer machine
 on github(with the help of ai)
 
 ---
+## Day 4 (14 May 2026)
+
+**What I learned**
+Learned variables, data types like string,
+integer, float, boolean and none, how to typecast
+and lastly the function input()
+
+**What I did**
+Did task for each topic locally and Pushed a simple travel planner
+(with the help of ai) <!--actually its too difficult for someone novice like me to do a whole project without the help of ai>
+
+---
