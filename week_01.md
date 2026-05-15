@@ -58,7 +58,7 @@ escape sequence character and f-string.
 **What I did -**
 Decide that I will no longer push projects with the help of ai.
 Instead I will push the practiced tasks for each topic that I wrote
-on my own. So I pushed 3practice tasks for each topic of each chapter 
+on my own. So I pushed 3 practice tasks for each topic of each chapter 
 of the syllabus that I am currently following.
 
 ---
