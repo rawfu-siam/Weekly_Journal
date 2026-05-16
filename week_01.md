@@ -62,3 +62,14 @@ on my own. So I pushed 3 practice tasks for each topic of each chapter
 of the syllabus that I am currently following.
 
 ---
+## Day 6 (16 May 2026)
+
+**What I learned -**
+few built in methods of string,
+list, tuples, dictionaries and sets and their different methods.
+
+**What I did -**
+pushed practice tasks for chapter 4 and 5
+of the syllabus that I am currently following.
+
+---
