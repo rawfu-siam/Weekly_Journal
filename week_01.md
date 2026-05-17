@@ -73,3 +73,14 @@ pushed practice tasks for chapter 4 and 5
 of the syllabus that I am currently following.
 
 ---
+## Day 6 (16 May 2026)
+
+**What I learned -**
+control flow, conditionals, if/elif/else, nested, in keyword,
+loops, for/while, break/continue/pass, star pattern
+
+**What I did -**
+pushed practice tasks for chapter 6 and 7
+of the syllabus that I am currently following.
+
+---
