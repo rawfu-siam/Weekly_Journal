@@ -73,7 +73,7 @@ pushed practice tasks for chapter 4 and 5
 of the syllabus that I am currently following.
 
 ---
-## Day 6 (16 May 2026)
+## Day 7 (17 May 2026)
 
 **What I learned -**
 control flow, conditionals, if/elif/else, nested, in keyword,
