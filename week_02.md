@@ -37,3 +37,13 @@ of the syllabus that I am currently following.
 I decided to give a revision of phase 1 before finally moving to 
 python intermediate which is the phase 2 syllabus.
 ---
+## Day 11 (21 May 2026)
+
+**What I learned -**
+Started revision of phase 1 syllabus, Today revisied
+chapter1, topic 1-5
+
+
+**What I did -**
+pushed revision tasks for chapter1 topic 1-5
+---
