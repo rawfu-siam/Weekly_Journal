@@ -47,3 +47,14 @@ chapter1, topic 1-5
 **What I did -**
 pushed revision tasks for chapter1 topic 1-5
 ---
+## Day 12 (22 May 2026)
+
+**What I learned -**
+Revised Tool, Module and Library,Import
+and modules like math / random / os and Variables
+
+
+**What I did -**
+pushed revision tasks for chapter1 topic 6-8 and 
+chapter2 topic 1
+---
