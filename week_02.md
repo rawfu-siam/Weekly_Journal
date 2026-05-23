@@ -58,3 +58,14 @@ and modules like math / random / os and Variables
 pushed revision tasks for chapter1 topic 6-8 and 
 chapter2 topic 1
 ---
+## Day 13 (23 May 2026)
+
+**What I learned -**
+Revised datatypes like str, int, float, bool and none.
+type() and typecasting, input() function and 4types of operators.
+
+
+**What I did -**
+pushed revision tasks for chapter 3 topic 2-4 and
+chapter 4 topic 1.
+---
