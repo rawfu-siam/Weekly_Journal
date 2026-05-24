@@ -66,6 +66,15 @@ type() and typecasting, input() function and 4types of operators.
 
 
 **What I did -**
-pushed revision tasks for chapter 3 topic 2-4 and
-chapter 4 topic 1.
+pushed revision tasks for chapter 2 topic 2-4 and
+chapter 3 topic 1.
+---
+## Day 13 (23 May 2026)
+
+**What I learned -**
+Revised string index and string slicing.
+
+
+**What I did -**
+pushed revision tasks for chapter 4 topic 1 and 2
 ---
