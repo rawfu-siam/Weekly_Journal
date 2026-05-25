@@ -69,7 +69,7 @@ type() and typecasting, input() function and 4types of operators.
 pushed revision tasks for chapter 2 topic 2-4 and
 chapter 3 topic 1.
 ---
-## Day 13 (23 May 2026)
+## Day 14 (24 May 2026)
 
 **What I learned -**
 Revised string index and string slicing.
@@ -77,4 +77,18 @@ Revised string index and string slicing.
 
 **What I did -**
 pushed revision tasks for chapter 4 topic 1 and 2
+---
+## Day 15 (25 May 2026)
+
+**What I learned -**
+Revised escape sequence characters
+f-string, len(), lower(), capitalize(), title()
+-endswith(), startswith(), count(), replace(), find()
+join() and format() methods
+list — indexing and slicing
+
+
+**What I did -**
+pushed revision tasks for chapter 4 topic 3-7
+and chapter 5 topic 1
 ---
