@@ -25,3 +25,14 @@ and Tuples — count(), index()
 **What I did -**
 pushed revision tasks for chapter 5 topic 2-3
 ---
+## Day 17 (27 May 2026)
+
+**What I learned -**
+Revised - Dictionary, items(), keys(), values(), update(), get()
+Dictionary merge & update operators
+set, add(), remove(), discard(), pop(), union(), intersection(), difference()
+
+
+**What I did -**
+pushed revision tasks for chapter 5 topic 4-8
+---
