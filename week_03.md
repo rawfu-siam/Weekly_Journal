@@ -36,3 +36,17 @@ set, add(), remove(), discard(), pop(), union(), intersection(), difference()
 **What I did -**
 pushed revision tasks for chapter 5 topic 4-8
 ---
+## Day 18 (28 May 2026)
+
+**What I learned -**
+Revised - if / elif / else, nested conditionals
+conditional expression / ternary operator / one liner
+in keyword
+for / range / while
+for loop with if and else
+
+
+**What I did -**
+pushed revision tasks for chapter 6 topic 1-4
+and chapter 7 topic 1-2
+---
