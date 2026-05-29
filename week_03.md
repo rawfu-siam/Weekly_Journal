@@ -50,3 +50,14 @@ for loop with if and else
 pushed revision tasks for chapter 6 topic 1-4
 and chapter 7 topic 1-2
 ---
+## Day 19 (29 May 2026)
+
+**What I learned -**
+Revised - break / continue / pass
+nested loop and star pattern
+function
+
+**What I did -**
+pushed revision tasks for chapter 7 topic 3-5
+and chapter 8 topic 1
+---
