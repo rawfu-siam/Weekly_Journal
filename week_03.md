@@ -61,3 +61,11 @@ function
 pushed revision tasks for chapter 7 topic 3-5
 and chapter 8 topic 1
 ---
+## Day 20 (30 May 2026)
+
+**What I learned -**
+Revised - function with argument
+recursion and return
+**What I did -**
+pushed revision tasks for chapter 8 topic 2-3
+---
