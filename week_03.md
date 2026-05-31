@@ -69,3 +69,11 @@ recursion and return
 **What I did -**
 pushed revision tasks for chapter 8 topic 2-3
 ---
+## Day 21 (31 May 2026)
+
+**What I learned -**
+Revised - file I/O
+file - with
+**What I did -**
+pushed revision tasks for chapter 9 topic 1-2
+---
