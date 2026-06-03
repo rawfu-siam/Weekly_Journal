@@ -21,3 +21,12 @@ rock paper scissor
 pushed revision tasks for chapter 11 topic 2
 and pushed the 2 games.
 ---
+## Day 24 (3 June 2026)
+
+**What I learned -**
+Revised - oop - class - objects, attributes and methods
+fixed few bugs on the guess the number game
+**What I did -**
+pushed revision tasks for chapter 11 topic 3
+and fixed few bugs on the guess the number game.
+---
