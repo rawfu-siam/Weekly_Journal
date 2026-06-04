@@ -30,3 +30,12 @@ fixed few bugs on the guess the number game
 pushed revision tasks for chapter 11 topic 3
 and fixed few bugs on the guess the number game.
 ---
+## Day 25 (4 June 2026)
+
+**What I learned -**
+Revised - oop - __inti__ and self
+fixed few bugs on the Rock Paper Scissor game
+**What I did -**
+pushed revision tasks for chapter 11 topic 4
+and fixed few bugs on the Rock Paper Scissor game.
+---
