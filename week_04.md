@@ -39,3 +39,13 @@ fixed few bugs on the Rock Paper Scissor game
 pushed revision tasks for chapter 11 topic 4
 and fixed few bugs on the Rock Paper Scissor game.
 ---
+## Day 26 (5 June 2026)
+
+**What I learned -**
+Revised - the basics of venv
+pip freeze
+**What I did -**
+did the revision tasks and
+pushed revision tasks for chapter 12 topic 1-2
+Thats the end of phase 1 of my syllabus!!!
+---
