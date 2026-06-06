@@ -49,3 +49,12 @@ did the revision tasks and
 pushed revision tasks for chapter 12 topic 1-2
 Thats the end of phase 1 of my syllabus!!!
 ---
+## Day 27 (6 June 2026)
+
+**What I learned -**
+learned - lambda function
+map, filter and reduce
+**What I did -**
+did the practice tasks for chapter 1 topic 1-2
+and pushed it.
+---
