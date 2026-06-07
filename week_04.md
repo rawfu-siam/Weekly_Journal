@@ -58,3 +58,13 @@ map, filter and reduce
 did the practice tasks for chapter 1 topic 1-2
 and pushed it.
 ---
+## Day 28 (7 June 2026)
+
+**What I learned -**
+learned - enumerate function
+list comprehension
+*args and **kwargs
+**What I did -**
+did the practice tasks for chapter 1 topic 3-5
+and pushed it.
+---
