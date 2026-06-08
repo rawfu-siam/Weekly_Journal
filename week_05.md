@@ -1,0 +1,13 @@
+# Week 5
+
+## Day 29 (8 June 2026)
+
+**What I learned -**
+learned - global keyword
+attribute and static method
+inheritance and types
+**What I did -**
+did the practice tasks for chapter 1 topic 6
+and chapter 2 topic 1-2
+and pushed it.
+---
