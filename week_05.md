@@ -11,3 +11,13 @@ did the practice tasks for chapter 1 topic 6
 and chapter 2 topic 1-2
 and pushed it.
 ---
+## Day 30  (9 June 2026)
+
+**What I learned -**
+learned - super() method
+polymorphism
+abstraction (abc module)
+**What I did -**
+did the practice tasks for chapter 2 topic 3-5
+and pushed it.
+---
