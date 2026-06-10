@@ -21,3 +21,12 @@ abstraction (abc module)
 did the practice tasks for chapter 2 topic 3-5
 and pushed it.
 ---
+## Day 31  (10 June 2026)
+
+**What I learned -**
+learned - @classmethod
+@property decorators
+**What I did -**
+did the practice tasks for chapter 2 topic 6-7
+and pushed it.(Feeling bit harder!)
+---
