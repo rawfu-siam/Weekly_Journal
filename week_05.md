@@ -30,3 +30,12 @@ learned - @classmethod
 did the practice tasks for chapter 2 topic 6-7
 and pushed it.(Feeling bit harder!)
 ---
+## Day 32  (11 June 2026)
+
+**What I learned -**
+learned - getters and setters
+operator overloading
+**What I did -**
+did the practice tasks for chapter 2 topic 8-9
+and pushed it.
+---
