@@ -39,3 +39,11 @@ operator overloading
 did the practice tasks for chapter 2 topic 8-9
 and pushed it.
 ---
+## Day 33  (12 June 2026)
+
+**What I learned -**
+learned - __str__ and __len__ (dunder methods)
+**What I did -**
+did the practice tasks for chapter 2 topic 10
+and pushed it.(today learned less than normal)
+---
