@@ -47,3 +47,11 @@ learned - __str__ and __len__ (dunder methods)
 did the practice tasks for chapter 2 topic 10
 and pushed it.(today learned less than normal)
 ---
+## Day 34  (13 June 2026)
+
+**What I learned -**
+learned - custom decorators
+**What I did -**
+did the practice tasks for chapter 3 topic 1
+and pushed it.
+---
