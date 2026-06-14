@@ -55,3 +55,11 @@ learned - custom decorators
 did the practice tasks for chapter 3 topic 1
 and pushed it.
 ---
+## Day 35  (14 June 2026)
+
+**What I learned -**
+learned - iterators and generators
+**What I did -**
+did the practice tasks for chapter 3 topic 
+and pushed it.
+---
