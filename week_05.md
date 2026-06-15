@@ -60,6 +60,6 @@ and pushed it.
 **What I learned -**
 learned - iterators and generators
 **What I did -**
-did the practice tasks for chapter 3 topic 
+did the practice tasks for chapter 3 topic 2
 and pushed it.
 ---
