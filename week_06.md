@@ -17,3 +17,13 @@ learned - __name__ and __main__
 did the practice tasks for chapter 3 topic 4
 and pushed it.
 ---
+## Day 38  (17 June 2026)
+
+**What I learned -**
+learned - types definition
+advanced type hints
+typing module
+**What I did -**
+did the practice tasks for chapter 4 topic 1-3
+and pushed it.
+---
