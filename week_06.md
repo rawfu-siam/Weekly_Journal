@@ -44,3 +44,11 @@ learned - async/await basics
 did the practice tasks for chapter 6 topic 1
 and pushed it.
 ---
+## Day 41  (20 June 2026)
+
+**What I learned -**
+learned - threading basics
+**What I did -**
+did the practice tasks for chapter 6 topic 2
+and pushed it.
+---
