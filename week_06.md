@@ -52,3 +52,13 @@ learned - threading basics
 did the practice tasks for chapter 6 topic 2
 and pushed it.
 ---
+## Day 42  (21 June 2026)
+
+**What I learned -**
+revised - lambda functions
+map, filter, reduce
+enumerate function
+**What I did -**
+did the revision tasks for chapter 1 topic 1-3
+and pushed it.
+---
