@@ -12,3 +12,13 @@ attribute and static method
 did the revision tasks for chapter 1 topic 4-6,
 chapter 2 topic 1 and pushed it.
 ---
+## Day 44  (23 June 2026)
+
+**What I learned -**
+revised - inheritance and types
+super() method
+polymorphism
+**What I did -**
+did the revision tasks for chapter 2 topic 2-4 
+and pushed it.
+---
