@@ -22,3 +22,13 @@ polymorphism
 did the revision tasks for chapter 2 topic 2-4 
 and pushed it.
 ---
+## Day 45  (24 June 2026)
+
+**What I learned -**
+revised - abstraction (abc module)
+@classmethod
+@property decorators(getters and setters)
+**What I did -**
+did the revision tasks for chapter 2 topic 5-7 
+and pushed it.
+---
