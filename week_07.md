@@ -32,3 +32,11 @@ revised - abstraction (abc module)
 did the revision tasks for chapter 2 topic 5-7 
 and pushed it.
 ---
+## Day 46  (25 June 2026)
+
+**What I learned -**
+revised - operator overloading
+**What I did -**
+did the revision tasks for chapter 2 topic 8 
+and pushed it.
+---
