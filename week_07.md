@@ -40,3 +40,11 @@ revised - operator overloading
 did the revision tasks for chapter 2 topic 8 
 and pushed it.
 ---
+## Day 47  (26 June 2026)
+
+**What I learned -**
+revised - __str__ and __len__ (dunder methods)
+**What I did -**
+did the revision tasks for chapter 2 topic 9 
+and pushed it.
+---
