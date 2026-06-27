@@ -48,3 +48,11 @@ revised - __str__ and __len__ (dunder methods)
 did the revision tasks for chapter 2 topic 9 
 and pushed it.
 ---
+## Day 48  (27 June 2026)
+
+**What I learned -**
+revised - custom decorator
+**What I did -**
+did the revision tasks for chapter 3 topic 1
+and pushed it.
+---
