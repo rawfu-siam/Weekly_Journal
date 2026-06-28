@@ -56,3 +56,11 @@ revised - custom decorator
 did the revision tasks for chapter 3 topic 1
 and pushed it.
 ---
+## Day 49  (28 June 2026)
+
+**What I learned -**
+revised - iterators and generators
+**What I did -**
+did the revision tasks for chapter 3 topic 2
+and pushed it.
+---
