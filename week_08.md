@@ -10,3 +10,11 @@ __name__ and __main__
 did the revision tasks for chapter 3 topic 3-4
 and pushed it.
 ---
+## Day 51  (30 June 2026)
+
+**What I learned -**
+revised - types definition
+**What I did -**
+did the revision tasks for chapter 4 topic 1
+and pushed it.
+---
