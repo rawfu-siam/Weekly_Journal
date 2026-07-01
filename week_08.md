@@ -18,3 +18,11 @@ revised - types definition
 did the revision tasks for chapter 4 topic 1
 and pushed it.
 ---
+## Day 52  (1 July 2026)
+
+**What I learned -**
+revised - advanced type hints
+**What I did -**
+did the revision tasks for chapter 4 topic 2
+and pushed it.
+---
