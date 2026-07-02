@@ -26,3 +26,11 @@ revised - advanced type hints
 did the revision tasks for chapter 4 topic 2
 and pushed it.
 ---
+## Day 53  (2 July 2026)
+
+**What I learned -**
+revised - typing module
+**What I did -**
+did the revision tasks for chapter 4 topic 3
+and pushed it.
+---
