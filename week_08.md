@@ -34,3 +34,11 @@ revised - typing module
 did the revision tasks for chapter 4 topic 3
 and pushed it.
 ---
+## Day 54  (3 July 2026)
+
+**What I learned -**
+revised - json handling
+**What I did -**
+did the revision tasks for chapter 5 topic 1
+and pushed it.
+---
