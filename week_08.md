@@ -42,3 +42,14 @@ revised - json handling
 did the revision tasks for chapter 5 topic 1
 and pushed it.
 ---
+## Day 55  (4 July 2026)
+
+**What I learned -**
+revised - regex (regular expressions)
+async / await basics
+threading basics
+**What I did -**
+did the revision tasks for chapter 5 topic 2,
+chapter 5 topic 1-2 and pushed it.
+Thats the end of Phase 2 !!!
+---
