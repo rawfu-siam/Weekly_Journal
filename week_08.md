@@ -53,3 +53,12 @@ did the revision tasks for chapter 5 topic 2,
 chapter 5 topic 1-2 and pushed it.
 Thats the end of Phase 2 !!!
 ---
+## Day 56  (5 July 2026)
+
+**What I learned -**
+learned - python -m venv env — creating virtual environments
+activating/deactivating — Windows
+**What I did -**
+did the practice tasks for chapter 0 topic 1-2 of phase 3
+and pushed it.
+---
