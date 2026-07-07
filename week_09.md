@@ -11,3 +11,11 @@ pip install -r requirements.txt
 did the practice tasks for chapter 0 topic 3-5 of phase 3
 and pushed it.
 ---
+## Day 58  (7 July 2026)
+
+**What I learned -**
+learned - .gitignore — never commit env/
+**What I did -**
+did the practice tasks for chapter 0 topic 6 of phase 3
+and pushed it.
+---
