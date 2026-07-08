@@ -28,3 +28,11 @@ checking active interpreter — python --version, which python
 did the practice tasks for chapter 0 topic 7-8 of phase 3
 and pushed it.
 ---
+## Day 60  (9 July 2026)
+
+**What I learned -**
+learned - requirements.txt vs requirements-dev.txt
+**What I did -**
+did the practice tasks for chapter 0 topic 9 of phase 3
+and pushed it.
+---
