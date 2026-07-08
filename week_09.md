@@ -19,3 +19,12 @@ learned - .gitignore — never commit env/
 did the practice tasks for chapter 0 topic 6 of phase 3
 and pushed it.
 ---
+## Day 59  (8 July 2026)
+
+**What I learned -**
+learned - why global installs cause conflicts
+checking active interpreter — python --version, which python
+**What I did -**
+did the practice tasks for chapter 0 topic 7-8 of phase 3
+and pushed it.
+---
