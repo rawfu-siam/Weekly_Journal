@@ -36,3 +36,11 @@ learned - requirements.txt vs requirements-dev.txt
 did the practice tasks for chapter 0 topic 9 of phase 3
 and pushed it.
 ---
+## Day 61  (10 July 2026)
+
+**What I learned -**
+learned - pyproject.toml — (recognition level only)
+**What I did -**
+did the practice tasks for chapter 0 topic 10 of phase 3
+and pushed it.
+---
