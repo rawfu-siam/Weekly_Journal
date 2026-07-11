@@ -44,3 +44,11 @@ learned - pyproject.toml — (recognition level only)
 did the practice tasks for chapter 0 topic 10 of phase 3
 and pushed it.
 ---
+## Day 62  (11 July 2026)
+
+**What I learned -**
+learned - venv vs Docker container isolation — conceptual link
+**What I did -**
+did the practice tasks for chapter 0 topic 11 of phase 3
+and pushed it.
+---
