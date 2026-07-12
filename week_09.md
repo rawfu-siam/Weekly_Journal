@@ -52,3 +52,11 @@ learned - venv vs Docker container isolation — conceptual link
 did the practice tasks for chapter 0 topic 11 of phase 3
 and pushed it.
 ---
+## Day 63  (12 July 2026)
+
+**What I learned -**
+learned - git init, clone, add, commit, push, pull
+**What I did -**
+did the practice tasks for chapter 1 topic 1 of phase 3
+and pushed it.
+---
