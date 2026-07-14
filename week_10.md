@@ -17,3 +17,11 @@ learned - pull requests (PRs) and code reviews
 did the practice tasks for chapter 1 topic 3 of phase 3
 and pushed it.
 ---
+## Day 66  (15 July 2026)
+
+**What I learned -**
+learned - git stash, git log, git diff
+**What I did -**
+did the practice tasks for chapter 1 topic 4 of phase 3
+and pushed it.
+---
