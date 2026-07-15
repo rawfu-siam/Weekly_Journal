@@ -25,3 +25,11 @@ learned - git stash, git log, git diff
 did the practice tasks for chapter 1 topic 4 of phase 3
 and pushed it.
 ---
+## Day 67  (16 July 2026)
+
+**What I learned -**
+learned - resolving merge conflicts
+**What I did -**
+did the practice tasks for chapter 1 topic 5 of phase 3
+and pushed it.
+---
