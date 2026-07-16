@@ -33,3 +33,11 @@ learned - resolving merge conflicts
 did the practice tasks for chapter 1 topic 5 of phase 3
 and pushed it.
 ---
+## Day 68  (17 July 2026)
+
+**What I learned -**
+learned - .gitignore — what to never push
+**What I did -**
+did the practice tasks for chapter 1 topic 6 of phase 3
+and pushed it.
+---
