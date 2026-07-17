@@ -41,3 +41,10 @@ learned - .gitignore — what to never push
 did the practice tasks for chapter 1 topic 6 of phase 3
 and pushed it.
 ---
+## Day 69  (18 July 2026)
+
+**What I learned -**
+learned - GitHub Actions — basic CI/CD pipeline
+**What I did -**
+pushed the practice tasks for chapter 1 topic 7 of phase 3.
+---
