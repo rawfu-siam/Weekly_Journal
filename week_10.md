@@ -48,3 +48,11 @@ learned - GitHub Actions — basic CI/CD pipeline
 **What I did -**
 pushed the practice tasks for chapter 1 topic 7 of phase 3.
 ---
+## Day 70  (19 July 2026)
+
+**What I learned -**
+learned - open source contribution workflow
+**What I did -**
+did the practice tasks for chapter 1 topic 8 of phase 3
+and pushed it.
+---
