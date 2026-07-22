@@ -17,3 +17,10 @@ learned - semantic commit messages(git and github)
 did the practice tasks for chapter 1 topic 10 of phase 3
 and pushed it.
 ---
+## Day 73  (22 July 2026)
+
+**What I learned -**
+learned - what is an API — REST vs GraphQL
+**What I did -**
+pushed the summary of chapter 2 topic 1 of phase 3
+---
