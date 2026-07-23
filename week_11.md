@@ -24,3 +24,11 @@ learned - what is an API — REST vs GraphQL
 **What I did -**
 pushed the summary of chapter 2 topic 1 of phase 3
 ---
+## Day 74  (23 July 2026)
+
+**What I learned -**
+planned the study map for next few weeks
+and added new syllabus phase
+**What I did -**
+pushed the new phase 2.5
+---
