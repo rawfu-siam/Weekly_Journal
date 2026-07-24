@@ -32,3 +32,10 @@ and added new syllabus phase
 **What I did -**
 pushed the new phase 2.5
 ---
+## Day 75  (24 July 2026)
+
+**What I learned -**
+learned - HTTP methods — GET, POST, PUT, DELETE
+**What I did -**
+pushed the summary of chapter 2 topic 2 of phase 3
+---
