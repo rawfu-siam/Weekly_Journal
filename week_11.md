@@ -39,3 +39,12 @@ learned - HTTP methods — GET, POST, PUT, DELETE
 **What I did -**
 pushed the summary of chapter 2 topic 2 of phase 3
 ---
+## Day 76  (25 July 2026)
+
+**What I learned -**
+learned - requests library — get(), post(), headers
+API keys — how to use and protect them
+environment variables (.env files)
+**What I did -**
+pushed the summary of chapter 2 topic 3-5 of phase 3
+---
