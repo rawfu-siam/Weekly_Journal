@@ -48,3 +48,18 @@ environment variables (.env files)
 **What I did -**
 pushed the summary of chapter 2 topic 3-5 of phase 3
 ---
+## Day 77  (26 July 2026)
+
+**What I learned -**
+learned - python-dotenv library
+parsing JSON responses
+error handling for API failures
+rate limiting and pagination
+authentication — Bearer tokens, OAuth basics
+
+BeautifulSoup4 — parsing HTML
+requests + BeautifulSoup workflow
+**What I did -**
+pushed the summary of chapter 2 topic 6-10 
+and chapter 3 topic 1-2 of phase 3
+---
