@@ -13,3 +13,10 @@ ethical scraping — robots.txt
 **What I did -**
 pushed the summary of chapter 3 topic 3-8 of phase 3
 ---
+## Day 79  (28 July 2026)
+
+**What I learned -**
+learned - Playwright (modern alternative to Selenium)
+**What I did -**
+pushed the summary of chapter 3 topic 9 of phase 3
+---
