@@ -20,3 +20,10 @@ learned - Playwright (modern alternative to Selenium)
 **What I did -**
 pushed the summary of chapter 3 topic 9 of phase 3
 ---
+## Day 80  (29 July 2026)
+
+**What I learned -**
+learned - what is a database and why it matters
+**What I did -**
+pushed the summary of chapter 4 topic 1 of phase 3
+---
