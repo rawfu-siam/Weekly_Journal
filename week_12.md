@@ -27,3 +27,10 @@ learned - what is a database and why it matters
 **What I did -**
 pushed the summary of chapter 4 topic 1 of phase 3
 ---
+## Day 81  (30(a bit late) July 2026)
+
+**What I learned -**
+learned - SQLite with Python — sqlite3 module
+**What I did -**
+pushed the summary of chapter 4 topic 2 of phase 3
+---
