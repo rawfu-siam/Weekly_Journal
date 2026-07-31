@@ -34,3 +34,11 @@ learned - SQLite with Python — sqlite3 module
 **What I did -**
 pushed the summary of chapter 4 topic 2 of phase 3
 ---
+## Day 82  (31 July 2026)
+
+**What I learned -**
+learned - CREATE, INSERT, SELECT, UPDATE, DELETE
+WHERE, ORDER BY, GROUP BY, JOIN
+**What I did -**
+pushed the summary of chapter 4 topic 3-4 of phase 3
+---
