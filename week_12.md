@@ -42,3 +42,12 @@ WHERE, ORDER BY, GROUP BY, JOIN
 **What I did -**
 pushed the summary of chapter 4 topic 3-4 of phase 3
 ---
+## Day 83  (1 August 2026)
+
+**What I learned -**
+learned - SQLAlchemy ORM — models and sessions
+PostgreSQL basics — connecting via psycopg2
+database design — tables, keys, relationships
+**What I did -**
+pushed the summary of chapter 4 topic 5-7 of phase 3
+---
