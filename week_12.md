@@ -51,3 +51,10 @@ database design — tables, keys, relationships
 **What I did -**
 pushed the summary of chapter 4 topic 5-7 of phase 3
 ---
+## Day 84  (2 August 2026)
+
+**What I learned -**
+learned - CRUD operations in Python
+**What I did -**
+pushed the summary of chapter 4 topic 8 of phase 3
+---
