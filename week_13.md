@@ -29,3 +29,10 @@ learned - Excel automation — openpyxl
 **What I did -**
 pushed the summary of chapter 5 topic 2 of phase 3
 ---
+## Day 89  (7 August 2026)
+
+**What I learned -**
+learned - PDF reading — PyPDF2
+**What I did -**
+pushed the summary of chapter 5 topic 3 of phase 3
+---
