@@ -36,3 +36,10 @@ learned - PDF reading — PyPDF2
 **What I did -**
 pushed the summary of chapter 5 topic 3 of phase 3
 ---
+## Day 90  (8 August 2026)
+
+**What I learned -**
+learned - sending emails with Python — smtplib
+**What I did -**
+pushed the summary of chapter 5 topic 4 of phase 3
+---
