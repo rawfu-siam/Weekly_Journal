@@ -15,3 +15,10 @@ learned - working with dates and times — datetime
 **What I did -**
 pushed the summary of chapter 5 topic 7 of phase 3
 ---
+## Day 94  (12 August 2026)
+
+**What I learned -**
+learned - logging — proper log files for production
+**What I did -**
+pushed the summary of chapter 5 topic 8 of phase 3
+---
