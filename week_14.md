@@ -22,3 +22,10 @@ learned - logging — proper log files for production
 **What I did -**
 pushed the summary of chapter 5 topic 8 of phase 3
 ---
+## Day 95  (13 August 2026)
+
+**What I learned -**
+learned - argparse — command line tools
+**What I did -**
+pushed the summary of chapter 5 topic 9 of phase 3
+---
