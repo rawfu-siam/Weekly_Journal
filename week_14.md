@@ -29,3 +29,10 @@ learned - argparse — command line tools
 **What I did -**
 pushed the summary of chapter 5 topic 9 of phase 3
 ---
+## Day 96  (14 August 2026)
+
+**What I learned -**
+learned - what is a web framework
+**What I did -**
+pushed the summary of chapter 6 topic 1 of phase 3
+---
