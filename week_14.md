@@ -36,3 +36,10 @@ learned - what is a web framework
 **What I did -**
 pushed the summary of chapter 6 topic 1 of phase 3
 ---
+## Day 97  (15 August 2026)
+
+**What I learned -**
+learned - FastAPI installation and project structure
+**What I did -**
+pushed the summary of chapter 6 topic 2 of phase 3
+---
