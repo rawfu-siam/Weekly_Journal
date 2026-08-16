@@ -43,3 +43,10 @@ learned - FastAPI installation and project structure
 **What I did -**
 pushed the summary of chapter 6 topic 2 of phase 3
 ---
+## Day 98  (16 August 2026)
+
+**What I learned -**
+learned - creating routes — GET, POST, PUT, DELETE
+**What I did -**
+pushed the summary of chapter 6 topic 3 of phase 3
+---
