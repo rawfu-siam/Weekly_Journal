@@ -15,3 +15,10 @@ learned - request body with Pydantic models
 **What I did -**
 pushed the summary of chapter 6 topic 5 of phase 3
 ---
+## Day 101  (19 August 2026)
+
+**What I learned -**
+learned - response models and status codes
+**What I did -**
+pushed the summary of chapter 6 topic 6 of phase 3
+---
