@@ -22,3 +22,10 @@ learned - response models and status codes
 **What I did -**
 pushed the summary of chapter 6 topic 6 of phase 3
 ---
+## Day 102  (20 August 2026)
+
+**What I learned -**
+learned - dependency injection basics
+**What I did -**
+pushed the summary of chapter 6 topic 7 of phase 3
+---
