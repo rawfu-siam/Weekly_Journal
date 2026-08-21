@@ -29,3 +29,10 @@ learned - dependency injection basics
 **What I did -**
 pushed the summary of chapter 6 topic 7 of phase 3
 ---
+## Day 103  (21 August 2026)
+
+**What I learned -**
+learned - FastAPI automatic docs — Swagger UI
+**What I did -**
+pushed the summary of chapter 6 topic 8 of phase 3
+---
