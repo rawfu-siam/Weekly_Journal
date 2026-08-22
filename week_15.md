@@ -36,3 +36,10 @@ learned - FastAPI automatic docs — Swagger UI
 **What I did -**
 pushed the summary of chapter 6 topic 8 of phase 3
 ---
+## Day 104  (22 August 2026)
+
+**What I learned -**
+learned - connecting FastAPI to a database
+**What I did -**
+pushed the summary of chapter 6 topic 9 of phase 3
+---
