@@ -43,3 +43,10 @@ learned - connecting FastAPI to a database
 **What I did -**
 pushed the summary of chapter 6 topic 9 of phase 3
 ---
+## Day 105  (23 August 2026)
+
+**What I learned -**
+learned - connecting FastAPI to a database
+**What I did -**
+pushed the summary of chapter 6 topic 9 of phase 3
+---
