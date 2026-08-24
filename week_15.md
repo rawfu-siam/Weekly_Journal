@@ -48,5 +48,5 @@ pushed the summary of chapter 6 topic 9 of phase 3
 **What I learned -**
 learned - connecting FastAPI to a database
 **What I did -**
-pushed the summary of chapter 6 topic 9 of phase 3
+pushed the summary of chapter 6 topic 10 of phase 3
 ---
