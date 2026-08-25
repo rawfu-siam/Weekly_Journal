@@ -8,3 +8,16 @@ learned - CORS and middleware
 **What I did -**
 pushed the summary of chapter 6 topic 11 of phase 3
 ---
+## Day 107  (25 August 2026)
+
+**What I learned -**
+learned - deploying FastAPI to Railway or Render
+Linear / Notion workspace setup for engineering Sprints
+Writing explicit engineering issues with functional specs
+Issue status tags — Backlog, Todo, In Progress, Review, Done
+Git branch naming conventions linked to Issue IDs (e.g., feature/issue-102)
+Smart commits — closing issues automatically via Git commit messages
+**What I did -**
+pushed the summary of chapter 6 topic 12 of phase 3
+and chapter 1 topic 1-5 of phase 2.5
+---
