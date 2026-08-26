@@ -21,3 +21,12 @@ Smart commits — closing issues automatically via Git commit messages
 pushed the summary of chapter 6 topic 12 of phase 3
 and chapter 1 topic 1-5 of phase 2.5
 ---
+## Day 108  (26 August 2026)
+
+**What I learned -**
+learned - Python native logging module configuration
+Log levels — DEBUG, INFO, WARNING, ERROR, CRITICAL
+Log formatters — timestamps, log levels, file names, line numbers
+**What I did -**
+pushed the summary of chapter 2 topic 1-3 of phase 2.5
+---
