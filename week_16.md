@@ -30,3 +30,12 @@ Log formatters — timestamps, log levels, file names, line numbers
 **What I did -**
 pushed the summary of chapter 2 topic 1-3 of phase 2.5
 ---
+## Day 109  (27 August 2026)
+
+**What I learned -**
+learned - Stream handlers (console output) vs File handlers (persistent storage)
+RotatingFileHandler — setting maxBytes and backupCount to prevent memory overflow
+Creating a reusable logger.py utility module
+**What I did -**
+pushed the summary of chapter 2 topic 4-6 of phase 2.5
+---
