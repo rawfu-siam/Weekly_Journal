@@ -39,3 +39,12 @@ Creating a reusable logger.py utility module
 **What I did -**
 pushed the summary of chapter 2 topic 4-6 of phase 2.5
 ---
+## Day 110  (28 August 2026)
+
+**What I learned -**
+learned - Credential hygiene principles — why raw strings break security
+python-dotenv library — loading keys via load_dotenv()
+Accessing variables securely using os.environ.get()
+**What I did -**
+pushed the summary of chapter 3 topic 1-3 of phase 2.5
+---
