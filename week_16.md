@@ -48,3 +48,10 @@ Accessing variables securely using os.environ.get()
 **What I did -**
 pushed the summary of chapter 3 topic 1-3 of phase 2.5
 ---
+## Day 111  (29 August 2026)
+
+**What I learned -**
+learned - Configuring .gitignore specifically to catch .env files
+**What I did -**
+pushed the summary of chapter 3 topic 4 of phase 2.5
+---
