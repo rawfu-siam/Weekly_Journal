@@ -55,3 +55,11 @@ learned - Configuring .gitignore specifically to catch .env files
 **What I did -**
 pushed the summary of chapter 3 topic 4 of phase 2.5
 ---
+## Day 112  (30 August 2026)
+
+**What I learned -**
+learned - Creating a professional .env.example team template 
+          and reusable config.py
+**What I did -**
+pushed the summary of chapter 3 topic 5 of phase 2.5
+---
