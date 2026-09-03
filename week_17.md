@@ -22,3 +22,11 @@ learned - Exposing background scripts as public HTTP endpoints
 **What I did -**
 pushed the summary of chapter 4 topic 2 of phase 2.5
 ---
+## Day 116  (3 September 2026)
+
+**What I learned -**
+learned - Auto-generated documentation engines — Swagger UI (/docs)
+          and ReDoc (/redoc)
+**What I did -**
+pushed the summary of chapter 4 topic 3 of phase 2.5
+---
