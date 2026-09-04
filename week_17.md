@@ -30,3 +30,11 @@ learned - Auto-generated documentation engines — Swagger UI (/docs)
 **What I did -**
 pushed the summary of chapter 4 topic 3 of phase 2.5
 ---
+## Day 117  (4 September 2026)
+
+**What I learned -**
+learned - Deploying web services via cloud infrastructure 
+          providers (Railway / Render)
+**What I did -**
+pushed the summary of chapter 4 topic 4 of phase 2.5
+---                
