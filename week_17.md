@@ -37,4 +37,11 @@ learned - Deploying web services via cloud infrastructure
           providers (Railway / Render)
 **What I did -**
 pushed the summary of chapter 4 topic 4 of phase 2.5
----                
+---
+## Day 118  (5 September 2026)(A bit late)
+
+**What I learned -**
+learned - Exposing public service URLs for rapid Recruiter / Client testing
+**What I did -**
+pushed the summary of chapter 4 topic 5 of phase 2.5
+---
