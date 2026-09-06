@@ -45,3 +45,12 @@ learned - Exposing public service URLs for rapid Recruiter / Client testing
 **What I did -**
 pushed the summary of chapter 4 topic 5 of phase 2.5
 ---
+## Day 119  (6 September 2026)
+
+**What I learned -**
+learned - Pydantic BaseModel setup for data parsing
+Type enforcement, coercion, and automatic casting
+Field validation guardrails — string lengths, numerical ranges, regex matching
+**What I did -**
+pushed the summary of chapter 5 topic 1-3 of phase 2.5
+---
