@@ -16,3 +16,10 @@ learned - Pandera basics — validating tabular pandas DataFrames
 **What I did -**
 pushed the summary of chapter 5 topic 5 of phase 2.5
 ---
+## Day 122  (9 September 2026)
+
+**What I learned -**
+learned - Graceful handling of ValidationError exceptions
+**What I did -**
+pushed the summary of chapter 5 topic 6 of phase 2.5
+---
