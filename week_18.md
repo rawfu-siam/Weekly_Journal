@@ -23,3 +23,10 @@ learned - Graceful handling of ValidationError exceptions
 **What I did -**
 pushed the summary of chapter 5 topic 6 of phase 2.5
 ---
+## Day 123  (10 September 2026)
+
+**What I learned -**
+learned - pytest framework installation and configuration
+**What I did -**
+pushed the summary of chapter 6 topic 1 of phase 2.5
+---
