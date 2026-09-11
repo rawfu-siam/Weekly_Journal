@@ -30,3 +30,10 @@ learned - pytest framework installation and configuration
 **What I did -**
 pushed the summary of chapter 6 topic 1 of phase 2.5
 ---
+## Day 124  (11 September 2026)
+
+**What I learned -**
+learned - Writing assertive test cases — test_* naming conventions
+**What I did -**
+pushed the summary of chapter 6 topic 2 of phase 2.5
+---
