@@ -37,3 +37,10 @@ learned - Writing assertive test cases — test_* naming conventions
 **What I did -**
 pushed the summary of chapter 6 topic 2 of phase 2.5
 ---
+## Day 125  (12 September 2026)
+
+**What I learned -**
+learned - Testing FastAPI endpoints using TestClient
+**What I did -**
+pushed the summary of chapter 6 topic 3 of phase 2.5
+---
