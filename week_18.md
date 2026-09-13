@@ -44,3 +44,10 @@ learned - Testing FastAPI endpoints using TestClient
 **What I did -**
 pushed the summary of chapter 6 topic 3 of phase 2.5
 ---
+## Day 126  (13 September 2026)
+
+**What I learned -**
+learned - Mocking external components — unittest.mock and patch
+**What I did -**
+pushed the summary of chapter 6 topic 4 of phase 2.5
+---
