@@ -8,3 +8,10 @@ learned - Firing single-command integration tests (pytest -v)
 **What I did -**
 pushed the summary of chapter 6 topic 5 of phase 2.5
 ---
+## Day 128  (15 September 2026)
+
+**What I learned -**
+learned - Pre-commit hook integration — running tests automatically before a Git commit
+**What I did -**
+pushed the summary of chapter 6 topic 6 of phase 2.5
+---
