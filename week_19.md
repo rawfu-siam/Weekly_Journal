@@ -15,3 +15,10 @@ learned - Pre-commit hook integration — running tests automatically before a G
 **What I did -**
 pushed the summary of chapter 6 topic 6 of phase 2.5
 ---
+## Day 129  (16 September 2026)
+
+**What I learned -**
+learned - Remote agency engineering communication etiquette (Threads, Slack Markdown)
+**What I did -**
+pushed the summary of chapter 7 topic 1 of phase 2.5
+---
