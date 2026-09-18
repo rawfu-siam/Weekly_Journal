@@ -29,3 +29,12 @@ learned - The danger of silent script death in production automation
 **What I did -**
 pushed the summary of chapter 7 topic 2 of phase 2.5
 ---
+## Day 131  (18 September 2026)
+
+**What I learned -**
+learned - Slack App creation basics via the Slack Developer Console
+Generating and managing Slack Incoming Webhook URLs
+Constructing automated payload alert blocks with tracebacks and error messages
+**What I did -**
+pushed the summary of chapter 7 topic 3-5 of phase 2.5
+---
