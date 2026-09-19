@@ -38,3 +38,15 @@ Constructing automated payload alert blocks with tracebacks and error messages
 **What I did -**
 pushed the summary of chapter 7 topic 3-5 of phase 2.5
 ---
+## Day 132  (19 September 2026)
+
+**What I learned -**
+learned - Slack Block Kit Builder for designing rich, structured diagnostic reports
+Slack Bolt Framework basics — handling custom Slash commands (e.g., /run-scraper)
+
+Caching principles — reducing infrastructure costs and heavy query latency
+Cachetools library — TTL (Time-To-Live) and LRU (Least Recently Used) caching
+**What I did -**
+pushed the summary of chapter 7 topic 6-7
+and chapter 8 topic 1-2 of phase 2.5
+---
