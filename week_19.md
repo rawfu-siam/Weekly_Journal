@@ -50,3 +50,12 @@ Cachetools library — TTL (Time-To-Live) and LRU (Least Recently Used) caching
 pushed the summary of chapter 7 topic 6-7
 and chapter 8 topic 1-2 of phase 2.5
 ---
+## Day 133  (20 September 2026)
+
+**What I learned -**
+learned - Redis database fundamentals — key-value store architectures
+Connecting Python scripts to a Redis instance via redis-py
+Wrapping repetitive, expensive database lookups or external API requests in cache layers
+**What I did -**
+pushed the summary of chapter 8 topic 3-5 of phase 2.5
+---
