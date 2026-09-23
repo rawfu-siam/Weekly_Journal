@@ -19,3 +19,19 @@ Zapier basics and when to use it
 **What I did -**
 pushed the summary of chapter 7 topic 4-6 of phase 3
 ---
+## Day 136  (23 September 2026)
+
+**What I learned -**
+learned - webhooks — sending and receiving
+combining Python scripts with n8n workflows
+building client-ready automation workflows
+error handling in automation workflows
+
+what is Docker and why it matters
+Dockerfile — writing your first container
+docker build, run, ps, stop, rm
+docker-compose for multi-container apps
+**What I did -**
+pushed the summary of chapter 7 topic 7-10
+and chapter 8 topic 1-4 of phase 3
+---
