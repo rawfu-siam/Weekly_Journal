@@ -55,3 +55,20 @@ code quality — black, flake8, isort
 pushed the summary of chapter 8 topic 5-10
 and chapter 9 topic 1-6 of phase 3
 ---
+## Day 138  (25 September 2026)
+
+**What I learned -**
+learned - pre-commit hooks
+project versioning — semantic versioning
+writing client proposals and project briefs
+delivering projects professionally
+
+uv library setup — lightning-fast package resolution replacing traditional slow pip operations
+Ruff framework execution — executing rapid static checking and automated PEP8 corporate style formatting
+Bandit analyzer — running AST (Abstract Syntax Tree) scans to catch codebase injection flaws and loose dependencies
+Automated Pre-Commit hooks — constructing a local .pre-commit-config.yaml matrix to block broken or unvetted git commits
+Tenacity integration — wrapping flaky network requests or scrapers in self-healing exponential backoff decorators
+**What I did -**
+pushed the summary of chapter 9 topic 7-10 of phase 3
+and chapter 9 topic 1-5 of phase 2.5
+---
