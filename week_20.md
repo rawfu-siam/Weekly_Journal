@@ -72,3 +72,10 @@ Tenacity integration — wrapping flaky network requests or scrapers in self-hea
 pushed the summary of chapter 9 topic 7-10 of phase 3
 and chapter 9 topic 1-5 of phase 2.5
 ---
+## Day 139  (26 September 2026)
+
+**What I learned -**
+learned - GitHub Actions CI/CD workflows — building a .github/workflows/ci.yml pipeline to auto-test and badge code on every push
+**What I did -**
+pushed the summary of chapter 9 topic 6 of phase 2.5
+---
