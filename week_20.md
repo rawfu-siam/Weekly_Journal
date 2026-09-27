@@ -79,3 +79,10 @@ learned - GitHub Actions CI/CD workflows — building a .github/workflows/ci.yml
 **What I did -**
 pushed the summary of chapter 9 topic 6 of phase 2.5
 ---
+## Day 140  (27 September 2026)
+
+**What I learned -**
+learned - OpenAI API setup and authentication
+**What I did -**
+pushed the summary of chapter 1 topic 1 of phase 4
+---
