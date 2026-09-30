@@ -15,3 +15,10 @@ learned - chat completions — messages, roles, system prompts
 **What I did -**
 pushed the summary of chapter 1 topic 3 of phase 4
 ---
+## Day 143  (30 September 2026)
+
+**What I learned -**
+learned - temperature, max_tokens, top_p parameters
+**What I did -**
+pushed the summary of chapter 1 topic 4 of phase 4
+---
