@@ -22,3 +22,10 @@ learned - temperature, max_tokens, top_p parameters
 **What I did -**
 pushed the summary of chapter 1 topic 4 of phase 4
 ---
+## Day 144  (1 October 2026)
+
+**What I learned -**
+learned - temperature, max_tokens, top_p parameters
+**What I did -**
+pushed the summary of chapter 1 topic 4 of phase 4
+---
