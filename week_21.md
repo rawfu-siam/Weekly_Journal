@@ -29,3 +29,10 @@ learned - prompt engineering principles
 **What I did -**
 pushed the summary of chapter 1 topic 5 of phase 4
 ---
+## Day 145  (2 October 2026)
+
+**What I learned -**
+learned - few-shot prompting
+**What I did -**
+pushed the summary of chapter 1 topic 6 of phase 4
+---
