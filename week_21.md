@@ -36,3 +36,10 @@ learned - few-shot prompting
 **What I did -**
 pushed the summary of chapter 1 topic 6 of phase 4
 ---
+## Day 146  (3 October 2026)
+
+**What I learned -**
+learned - chain of thought prompting
+**What I did -**
+pushed the summary of chapter 1 topic 7 of phase 4
+---
