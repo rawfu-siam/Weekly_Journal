@@ -43,3 +43,12 @@ learned - chain of thought prompting
 **What I did -**
 pushed the summary of chapter 1 topic 7 of phase 4
 ---
+## Day 147  (4 October 2026)
+
+**What I learned -**
+learned - structured output — JSON mode
+started working on project 1 - 'zero_trust_webhook'
+**What I did -**
+pushed the summary of chapter 1 topic 8 of phase 4
+and .gitignore and .env.example file in project 1 rep
+---
