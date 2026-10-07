@@ -15,3 +15,10 @@ learned - managing API costs and token usage
 **What I did -**
 pushed the summary of chapter 1 topic 10 of phase 4
 ---
+## Day 150  (7 October 2026)
+
+**What I learned -**
+learned - streaming responses
+**What I did -**
+pushed the summary of chapter 1 topic 11 of phase 4
+---
