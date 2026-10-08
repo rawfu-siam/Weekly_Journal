@@ -22,3 +22,10 @@ learned - streaming responses
 **What I did -**
 pushed the summary of chapter 1 topic 11 of phase 4
 ---
+## Day 151  (8 October 2026)
+
+**What I learned -**
+learned - what are multi-agent systems
+**What I did -**
+pushed the summary of chapter 4 topic 2 of phase 4
+---
