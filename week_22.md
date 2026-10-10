@@ -36,3 +36,10 @@ learned - CrewAI installation and architecture
 **What I did -**
 pushed the summary of chapter 4 topic 2 of phase 4
 ---
+## Day 153  (10 October 2026)
+
+**What I learned -**
+learned - agents — role, goal, backstory, tools
+**What I did -**
+pushed the summary of chapter 4 topic 3 of phase 4
+---
