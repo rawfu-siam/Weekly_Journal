@@ -24,3 +24,10 @@ learned - agent collaboration and delegation
 **What I did -**
 pushed the summary of chapter 4 topic 7 of phase 4
 ---
+## Day 158  (15 October 2026)
+
+**What I learned -**
+learned - human-in-the-loop workflows
+**What I did -**
+pushed the summary of chapter 4 topic 8 of phase 4
+---
