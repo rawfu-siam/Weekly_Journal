@@ -31,3 +31,10 @@ learned - human-in-the-loop workflows
 **What I did -**
 pushed the summary of chapter 4 topic 8 of phase 4
 ---
+## Day 159  (16 October 2026)
+
+**What I learned -**
+learned - CrewAI with LangChain tools
+**What I did -**
+pushed the summary of chapter 4 topic 9 of phase 4
+---
