@@ -38,3 +38,10 @@ learned - CrewAI with LangChain tools
 **What I did -**
 pushed the summary of chapter 4 topic 9 of phase 4
 ---
+## Day 160  (17 October 2026)
+
+**What I learned -**
+learned - output handling and parsing crew results
+**What I did -**
+pushed the summary of chapter 4 topic 10 of phase 4
+---
