@@ -45,3 +45,10 @@ learned - output handling and parsing crew results
 **What I did -**
 pushed the summary of chapter 4 topic 10 of phase 4
 ---
+## Day 161  (18 October 2026)
+
+**What I learned -**
+learned - CrewAI flows — event-driven agent pipelines
+**What I did -**
+pushed the summary of chapter 4 topic 11 of phase 4
+---
