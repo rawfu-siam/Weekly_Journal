@@ -26,3 +26,22 @@ retrievers and similarity search
 **What I did -**
 pushed the summary of chapter 2 topic 4-11 of phase 4
 ---
+## Day 164  (21 October 2026)
+
+**What I learned -**
+learned - memory — ConversationBufferMemory, SummaryMemory
+what are AI agents
+LangChain tools — built-in and custom
+ReAct agent pattern
+building custom tools for agents
+agent executors
+tool calling and function routing
+web search tool — Tavily, SerpAPI
+code execution tools
+agents with memory
+LangSmith — debugging and monitoring agents
+LangServe — deploying LangChain as an API
+**What I did -**
+pushed the summary of chapter 2 topic 12
+and chapter 3 topic 1-11 of phase 4
+---
