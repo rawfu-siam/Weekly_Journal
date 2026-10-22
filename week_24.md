@@ -45,3 +45,15 @@ LangServe — deploying LangChain as an API
 pushed the summary of chapter 2 topic 12
 and chapter 3 topic 1-11 of phase 4
 ---
+## Day 165  (22 October 2026)
+
+**What I learned -**
+learned - RAG architecture — deep understanding
+chunking strategies — size, overlap, semantic
+embedding models comparison
+Pinecone — cloud vector database
+ChromaDB — local vector database
+Weaviate basics
+**What I did -**
+pushed the summary of chapter 5 topic 1-6 of phase 4
+---
