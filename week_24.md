@@ -57,3 +57,21 @@ Weaviate basics
 **What I did -**
 pushed the summary of chapter 5 topic 1-6 of phase 4
 ---
+## Day 166  (23 October 2026)
+
+**What I learned -**
+learned - hybrid search — keyword + semantic
+reranking results
+advanced retrieval strategies
+RAG evaluation — precision, recall
+building production RAG pipelines
+connecting AI agents to n8n workflows
+AI-powered email processing and routing
+document processing automation with AI
+AI-powered data extraction from unstructured text
+voice AI — Whisper for transcription
+image analysis — GPT-4 Vision
+**What I did -**
+pushed the summary of chapter 5 topic 7-11
+and chapter 6 topic 1-6 of phase 4
+---
