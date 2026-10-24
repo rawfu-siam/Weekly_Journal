@@ -75,3 +75,15 @@ image analysis — GPT-4 Vision
 pushed the summary of chapter 5 topic 7-11
 and chapter 6 topic 1-6 of phase 4
 ---
+## Day 167  (24 October 2026) (Late)
+
+**What I learned -**
+learned - AI-powered web scraping and summarization
+trigger-based AI workflows
+AI agents with database memory
+monitoring and logging AI pipelines
+AI product architecture — backend + frontend + AI
+**What I did -**
+pushed the summary of chapter 6 topic 7-10
+and chapter 7 topic 1 of phase 4
+---
