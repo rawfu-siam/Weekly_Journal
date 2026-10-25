@@ -87,3 +87,25 @@ AI product architecture — backend + frontend + AI
 pushed the summary of chapter 6 topic 7-10
 and chapter 7 topic 1 of phase 4
 ---
+## Day 168  (25 October 2026)
+
+**What I learned -**
+learned - FastAPI + LangChain integration
+streaming AI responses to frontend
+user authentication for AI apps — JWT
+rate limiting AI endpoints
+usage tracking and billing logic
+deploying AI apps — Railway, Render, AWS
+cost optimization — caching, batching
+AI product pricing models
+what is LangGraph and when to use it over CrewAI
+State Graphs — nodes, edges, and conditional edges
+State management — defining and updating the overall GraphState
+Conditional routing — writing deterministic Python router logic
+State persistence — implementing memory checkpoints and threads
+Human-in-the-Loop (HITL) — interrupting graph execution for webhooks
+building a waitlist and onboarding flow
+**What I did -**
+pushed the summary of chapter 7 topic 2-10
+and chapter 8 topic 1-6 of phase 4
+---
