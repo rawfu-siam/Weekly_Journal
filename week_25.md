@@ -31,3 +31,10 @@ learned - worked on project 2 - "price-sentinel"
 **What I did -**
 pushed several files of project 2
 ---
+## Day 173  (30 October 2026)
+
+**What I learned -**
+learned - worked on project 2 - "price-sentinel"
+**What I did -**
+pushed several files of project 2
+---
