@@ -38,3 +38,10 @@ learned - worked on project 2 - "price-sentinel"
 **What I did -**
 pushed several files of project 2
 ---
+## Day 174  (31 October 2026)
+
+**What I learned -**
+learned - worked on project 2 - "price-sentinel"
+**What I did -**
+pushed the scraper.py file of project 2
+---
