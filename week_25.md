@@ -45,3 +45,10 @@ learned - worked on project 2 - "price-sentinel"
 **What I did -**
 pushed the scraper.py file of project 2
 ---
+## Day 175  (1 November 2026)
+
+**What I learned -**
+learned - worked on project 2 - "price-sentinel"
+**What I did -**
+pushed half of main.py file of project 2
+---
